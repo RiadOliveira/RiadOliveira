@@ -2,7 +2,7 @@
 
 ## Meu nome é Ríad Oliveira de Morais,
 
-<p>Desde pequeno sempre me interessei muito por programação e pelas diversas possibilidades que as tecnologias têm a nos oferecer, além de sua flexibilidade para solucionar e otimizar problemáticas que todos enfrentamos. Acho que toda essa esfera tecnológica tem muito a nos oferecer, principalmente quando é explorada com uma comunidade forte e contribuição contínua entre os programadores.</br>
+<p>Desde pequeno sempre me interessei muito por programação e pelas diversas possibilidades que as tecnologias têm a nos oferecer, além de sua flexibilidade para solucionar e otimizar problemáticas que todos enfrentamos. Acho toda essa esfera tecnológica incrível, principalmente quando é explorada com uma comunidade forte e contribuição contínua entre os desenvolvedores.</br>
 
 Sou um estudante de Ciência da Computação na UFERSA de mossoró.</p>
 
