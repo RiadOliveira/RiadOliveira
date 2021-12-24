@@ -2,7 +2,9 @@
 
 ## Meu nome é Ríad Oliveira de Morais,
 
-<p>Sou um desenvolvedor Full-Stack, com um pouco mais de 1 ano de experiência em desenvolvimento web e mobile. Desenvolvi alguns projetos pessoais, com o intuito de aprofundar meus aprendizados e me preparar para o desenvolvimento de projetos reais de forma ativa. Possuo sólidos conhecimentos em Javascript, React, React Native, além de ter uma base firme de Nodejs para o Backend. Tenho interesse em explorar as potencialidades das tecnologias que temos a nosso dispor, de forma que seja possível trazer contribuições significativas para a vivência humana, facilitando-a através do uso de softwares.</p>
+<p>Sou um desenvolvedor Full-Stack, com um pouco mais de 1 ano de experiência em desenvolvimento web e mobile. Desenvolvi alguns projetos pessoais, com o intuito de aprofundar meus aprendizados e me preparar para o desenvolvimento de projetos reais de forma ativa.</p>
+
+<p>Possuo sólidos conhecimentos em Javascript, React, React Native, além de ter uma base firme de Nodejs para o Backend. Tenho interesse em explorar as potencialidades das tecnologias que temos a nosso dispor, de forma que seja possível trazer contribuições significativas para a vivência humana, facilitando-a através do uso de softwares.</p>
 
 Sou um estudante de Ciência da Computação na UFERSA de mossoró.</p>
 
