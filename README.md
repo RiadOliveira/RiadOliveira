@@ -10,9 +10,8 @@ Sou um estudante de Ciência da Computação na UFERSA de mossoró.</p>
 
 <p>Sempre estou aberto a novas possibilidades.</p>
 
-<p>Entre em contato comigo por:</br>
+<p>
+Entre em contato comigo por:</br></br>
 Email: riad.oliveira@hotmail.com</br>
-
-LinkedIn: 
-[Ríad Oliveira](https://www.linkedin.com/in/r%C3%ADad-oliveira-8492891b4/)
+LinkedIn: <a href="https://www.linkedin.com/in/r%C3%ADad-oliveira-8492891b4"/>Ríad Oliveira</a>
 </p>
