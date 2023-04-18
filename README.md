@@ -1,17 +1,45 @@
-# Sobre mim
+## Oi, sou Ríad Oliveira de Morais
 
-## Meu nome é Ríad Oliveira de Morais,
+#### Apresentação
+<p>
+  Sou uma pessoa completamente apaixonada pela programação desde a
+  infância. Na época, eu pesquisava bastante sobre desenvolvimento
+  de softwares, e, com o passar do tempo, a minha vontade de
+  aprender mais sobre as tecnologias usadas nessa área aumentou
+  gradativamente. Como resultado, hoje sou um desenvolvedor
+  <strong style="color: #0d5da6;">Full Stack</strong>, com foco em
+  desenvolvimento <span style="color: #0d5da6;">web</span> e
+  <strong style="color: #0d5da6;">mobile</strong>, mas sem me
+  limitar a esses escopos. Já explorei áreas como
+  <strong style="color: #0d5da6;">inteligência artificial</strong>,
+  <strong style="color: #0d5da6;">jogos</strong>,
+  <strong style="color: #0d5da6;">desktop</strong>, entre outras, e
+  estou disposto a conhecer ainda mais, tanto esses ramos quanto
+  outros.
+</p>
 
-<p>Um desenvolvedor Full-Stack apaixonado pelo mundo da programação e todas as tecnologias e possibilidades que o cercam, possuindo como foco o desenvolvimento de aplicações Web e Mobile. Desenvolvi alguns projetos pessoais, com o intuito de aprofundar meus aprendizados e me preparar para o desenvolvimento de projetos reais de forma ativa.</p>
-
-<p>Possuo sólidos conhecimentos em Typescript, React, React Native, além de ter uma base firme de Nodejs para o Backend, saindo do escopo do JS, também possuo uma boa base em programação C++ e Java. Tenho interesse em explorar as potencialidades das tecnologias que temos a nosso dispor, de forma que seja possível trazer contribuições significativas para a vivência humana, facilitando-a através do uso de softwares.</p>
-
-Sou um estudante de Ciência da Computação na UFERSA de mossoró.</p>
-
-<p>Sempre estou aberto a novas possibilidades.</p>
+#### Visão sobre programação
+<p>
+  Para mim, a programação é uma ferramenta poderosa que pode
+  transformar a vida das pessoas. Diante disso, é necessário que
+  seu potencial seja explorado em sua totalidade, para que possa
+  evoluir e se aperfeiçoar continuamente, promovendo, assim, novos
+  auxílios e facilitações que atendam as
+  <strong style="color: #a80202;">necessidades populacionais</strong>
+  de maneira <strong style="color: #a80202;">satisfatória</strong> e
+  <strong style="color: #a80202;">eficiente</strong>. Meu compromisso
+  é com a <strong style="color: #a80202;">excelência</strong>, por
+  isso sempre me empenho ao máximo na busca por soluções
+  <strong style="color: #a80202;">melhores</strong> e
+  <strong style="color: #a80202;">inovadoras</strong>, priorizando o
+  desenvolvimento de códigos
+  <strong style="color: #a80202;">limpos</strong> e
+  <strong style="color: #a80202;">performáticos</strong>
+  constantemente.
+</p>
 
 <p>
-Entre em contato comigo por:</br></br>
-Email: <a href="mailto:riad.oliveira@hotmail.com">riad.oliveira@hotmail.com</a></br>
-LinkedIn: <a href="https://www.linkedin.com/in/ríad-oliveira"/>Ríad Oliveira</a>
+  <br/>
+  Email: <a href="mailto:riad.oliveira@hotmail.com">riad.oliveira@hotmail.com</a></br>
+  LinkedIn: <a href="https://www.linkedin.com/in/ríad-oliveira"/>Ríad Oliveira</a>
 </p>
