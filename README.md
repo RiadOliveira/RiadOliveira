@@ -1,7 +1,7 @@
 # Hey Everyone 👋🏻<br>I'm Ríad, a Full Stack Developer
 
-📖 Studying and Practicing Programming since 2020<br>
-🧑🏻‍💻 Working as a Full Stack Developer since 2022<br><br>
+📖 Studying and practicing programming since 2020<br>
+🧑🏻‍💻 Working as a Full Stack Developer since 2022
 
 ## 📝 About Me
   I'm passionate about programming and the transformative impact it can have. I strive to develop efficient solutions, prioritizing clean and high-performance code, always with a proactive approach and a commitment to excellence.
