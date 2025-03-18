@@ -13,7 +13,7 @@ Currently, I focus on Full Stack development, improving my skills in technologie
 
 <!-- START TECHNOLOGIES -->
 ![react](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![node.js](https://img.shields.io/badge/node.js-6DA55F??style=for-the-badge&logo=node.js&logoColor=white)
+![node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![react](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
