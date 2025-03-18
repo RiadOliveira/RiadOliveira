@@ -19,8 +19,8 @@ jobs:
           # Extract technologies and URLs from the JSON
           TECHNOLOGIES=$(jq -r 'to_entries | map("![\(.key)](\(.value.icon))") | join("\n")' technologies.json)
 
-          # Escape special characters in TECHNOLOGIES for sed
-          TECHNOLOGIES_ESCAPED=$(echo "$TECHNOLOGIES" | sed 's/[&/\]/\\&/g')
+          # Escape special characters in TECHNOLOGIES for sed (including square brackets)
+          TECHNOLOGIES_ESCAPED=$(echo "$TECHNOLOGIES" | sed 's/[][\.^$*]/\\&/g')
 
           # Replace the section within the README
           sed -i '/<!-- START TECHNOLOGIES -->/,/<!-- END TECHNOLOGIES -->/c\<!-- START TECHNOLOGIES -->\n'"$TECHNOLOGIES_ESCAPED"'\n<!-- END TECHNOLOGIES -->' README.md
