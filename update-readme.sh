@@ -1,4 +1,3 @@
-#!/bin/bash
 set -e
 
 # Define markers
@@ -9,12 +8,13 @@ END_MARKER="<!-- END TECHNOLOGIES -->"
 TECH_SECTION=$(mktemp)
 README_TEMP=$(mktemp)
 
-# Start with a newline after the marker
-echo "" > $TECH_SECTION
-
-# Process the technologies.json file and create markdown for each technology
-jq -r 'to_entries | sort_by(.value.id) | .[] | .key + " " + .value.icon' technologies.json | while read -r KEY ICON; do
-  echo "![${KEY}](${ICON})" >> $TECH_SECTION
+# Process the optimized technologies.json file and create markdown for each technology
+jq -r '.[]' technologies.json | while read -r ENTRY; do
+  BADGE=$(echo "$ENTRY" | cut -d' ' -f1)
+  LOGO=$(echo "$ENTRY" | cut -d' ' -f2)
+  COLOR=$(echo "$ENTRY" | cut -d' ' -f3)
+  ICON="https://img.shields.io/badge/${BADGE}?style=for-the-badge&logo=${LOGO}&logoColor=${COLOR}"
+  echo "![${LOGO}](${ICON})" >> $TECH_SECTION
 done
 
 # Replace the content between markers in README.md
