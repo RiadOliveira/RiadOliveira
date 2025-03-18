@@ -4,11 +4,14 @@
 🧑🏻‍💻 Working as a Full Stack Developer since 2022
 
 ## 📝 About Me
-  I'm passionate about programming and the transformative impact it can have. I strive to develop efficient solutions, prioritizing clean and high-performance code, always with a proactive approach and a commitment to excellence.
+
+I'm passionate about programming and the transformative impact it can have. I strive to develop efficient solutions, prioritizing clean and high-performance code, always with a proactive approach and a commitment to excellence.
 
 Currently, I focus on Full Stack development, improving my skills in technologies such as Next.js, Expo, and Nest.js. However, I am always open to exploring new areas and expanding my technical expertise.
 
 ## 🛠️ Tech Stack
+
+<!-- START TECHNOLOGIES -->
 
 ![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -42,8 +45,10 @@ Currently, I focus on Full Stack development, improving my skills in technologie
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+<!-- END TECHNOLOGIES -->
+
 ## 🌐 Socials
 
-  <a href = "mailto:riad.oliveira@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href = "mailto:riad.oliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ríad-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:riad.oliveira@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+<a href = "mailto:riad.oliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/ríad-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>

@@ -1,0 +1,31 @@
+name: Update README
+
+on:
+  push:
+    paths:
+      - 'technologies.json'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Update README.md
+        run: |
+          # Extract technologies and URLs from the JSON
+          TECHNOLOGIES=$(jq -r 'to_entries | map("![\(.key)](\(.value))") | join("\n")' technologies.json)
+
+          # Replace the section within the README
+          sed -i '/<!-- START TECHNOLOGIES -->/,/<!-- END TECHNOLOGIES -->/c\<!-- START TECHNOLOGIES -->\n'"$TECHNOLOGIES"'\n<!-- END TECHNOLOGIES -->' README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Updating README.md with new technologies [CI/CD]" || echo "No changes"
+          git push
