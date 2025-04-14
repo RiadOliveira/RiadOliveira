@@ -11,7 +11,6 @@ Currently, I focus on Full Stack development, improving my skills in technologie
 
 ## 🛠️ Tech Stack
 
-<!-- START TECHNOLOGIES -->
 ![react](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -43,7 +42,6 @@ Currently, I focus on Full Stack development, improving my skills in technologie
 ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![html5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-<!-- END TECHNOLOGIES -->
 
 ## 🌐 Socials
 
