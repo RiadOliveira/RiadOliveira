@@ -5,9 +5,7 @@
 
 ## 📝 About Me
 
-I'm passionate about programming and the transformative impact it can have. I strive to develop efficient solutions, prioritizing clean and high-performance code, always with a proactive approach and a commitment to excellence.
-
-Currently, I focus on Full Stack development, improving my skills in technologies such as Next.js, Expo, and Nest.js. However, I am always open to exploring new areas and expanding my technical expertise.
+I am passionate about programming and the transformative impact it can generate. I seek to develop efficient solutions, prioritizing clean and performant code, always with a proactive attitude and commitment to excellence. I specialize in Full Stack development of web and mobile applications, with a focus on TypeScript (Node.js, React.js, React Native, NestJS, Next.js, and Expo) and Java (Spring). Additionally, I have delved into lower-level projects using C/C++, exploring concepts such as parallelism and multithreading.
 
 ## 🛠️ Tech Stack
 
